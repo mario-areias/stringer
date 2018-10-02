@@ -17,7 +17,7 @@ GEM
     arel (6.0.4)
     ast (2.2.0)
     backports (3.6.8)
-    bcrypt (3.1.11)
+    bcrypt (3.1.12)
     builder (3.2.3)
     byebug (2.7.0)
       columnize (~> 0.3)
